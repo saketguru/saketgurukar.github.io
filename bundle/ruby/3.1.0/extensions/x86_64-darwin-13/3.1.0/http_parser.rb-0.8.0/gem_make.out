@@ -1,0 +1,14 @@
+current directory: /Users/saketgurukar/Documents/code/saketgurukar.github.io/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/saketgurukar/miniconda3/envs/website/bin/ruby -I /Users/saketgurukar/miniconda3/envs/website/lib/ruby/3.1.0 -r ./siteconf20230205-21199-fvftti.rb extconf.rb
+creating Makefile
+
+current directory: /Users/saketgurukar/Documents/code/saketgurukar.github.io/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/saketgurukar/Documents/code/saketgurukar.github.io/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+/bin/sh: x86_64-apple-darwin13.4.0-clang: command not found
+make: *** [ruby_http_parser.o] Error 127
+
+make failed, exit code 2
